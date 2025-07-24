@@ -1,8 +1,8 @@
 #  Ian Marcelino
 
-**`Desenvolvedor FullStack`**
+**`DESENVOLVEDOR FULLSTACK`**
 
-Me chamo Ian Marcelino, tenho 21 anos e sou natural de Fortaleza. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFOR. Sou um desenvolvedor full-stack apaixonado por tecnologia e estou sempre buscando aprender e evoluir na área de desenvolvimento de sistemas. 
+Me chamo Ian Marcelino, tenho 21 anos e sou natural de Fortaleza. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFOR. Sou um desenvolvedor fullstack apaixonado por tecnologia e estou sempre buscando aprender e evoluir na área de desenvolvimento de sistemas. 
 
 
 <p align="left">
