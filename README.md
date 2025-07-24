@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ian Marcelino
+#  🧑‍💻 Ian Marcelino
 
 **`Desenvolvedor FullStack`**
 
@@ -11,14 +11,13 @@
         />
     </a>
     </a>
-    <a href="https://github.com/IanMarcelino">
+    <a href="https://github.com/IanMarcelino" target="_blank">
         <img 
-            alt="Github" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/IanMarcelino?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+            alt="GitHub" 
+            title="Meu GitHub" 
+            src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
 
 ---
 
